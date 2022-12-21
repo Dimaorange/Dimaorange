@@ -2,4 +2,4 @@
 <br>
 Je suis en formation  au Di learning
 <br>
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Tux, the Linux mascot](/assets/images/imgrc=zoUdDlVPIh2l2M)
