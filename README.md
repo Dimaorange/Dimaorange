@@ -1,7 +1,6 @@
 ## Hello my name is <strong>DIMA</strong>.
 <hr>
 <h3>The research and transmission of science is an obligation for all !</h3>
-<br>
 <div>
 <p><strong>Programming language</strong></p>
 <p>
